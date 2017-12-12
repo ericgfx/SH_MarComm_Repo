@@ -11,7 +11,7 @@ FullName:Arial
 MenuName:Arial
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\GrossE\Documents\GitHub\SH_MarComm_Repo\Transition Signage\Were Moving Folder\Document fonts\arial.ttf
+OutlineFileName:C:\Users\GrossE\Documents\GitHub\SH_MarComm_Repo\Were Moving Folder\Document fonts\arial.ttf
 DataFormat:sfntData
 hasSVG:no
 FileLength:774236
@@ -33,7 +33,7 @@ FullName:Helvetica Neue LT Std 75 Bold
 MenuName:HelveticaNeueLT Std
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\GrossE\Documents\GitHub\SH_MarComm_Repo\Transition Signage\Were Moving Folder\Document fonts\HelveticaNeueLTStd-Bd_0.otf
+OutlineFileName:C:\Users\GrossE\Documents\GitHub\SH_MarComm_Repo\Were Moving Folder\Document fonts\HelveticaNeueLTStd-Bd_0.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -59,7 +59,7 @@ FullName:Helvetica Neue LT Std 45 Light
 MenuName:HelveticaNeueLT Std Lt
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\GrossE\Documents\GitHub\SH_MarComm_Repo\Transition Signage\Were Moving Folder\Document fonts\HelveticaNeueLTStd-Lt_0.otf
+OutlineFileName:C:\Users\GrossE\Documents\GitHub\SH_MarComm_Repo\Were Moving Folder\Document fonts\HelveticaNeueLTStd-Lt_0.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -86,7 +86,7 @@ FullName:Times New Roman
 MenuName:Times New Roman
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\GrossE\Documents\GitHub\SH_MarComm_Repo\Transition Signage\Were Moving Folder\Document fonts\times.ttf
+OutlineFileName:C:\Users\GrossE\Documents\GitHub\SH_MarComm_Repo\Were Moving Folder\Document fonts\times.ttf
 DataFormat:sfntData
 hasSVG:no
 FileLength:836516
