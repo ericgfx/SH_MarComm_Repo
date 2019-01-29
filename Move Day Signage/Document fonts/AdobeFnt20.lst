@@ -14,12 +14,12 @@ WidthClass:5
 AngleClass:0
 FullName:Times New Roman
 WritingScript:Roman
-OutlineFileName:/Users/grosse/GitHub OfficeMac/SH_MarComm_Repo/Move Day Signage/Document fonts/times.ttf
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/SH_MarComm_Repo/Move Day Signage/Document fonts/times.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:836516
-FileModTime:568234492
+FileModTime:565033643
 NameArray:0,Mac,4,Times New Roman
 NameArray:0,Win,1,Times New Roman
 %EndFont
@@ -37,14 +37,14 @@ WidthClass:5
 AngleClass:0
 FullName:Helvetica Neue LT Std 45 Light
 WritingScript:Roman
-OutlineFileName:/Users/grosse/GitHub OfficeMac/SH_MarComm_Repo/Move Day Signage/Document fonts/HelveticaNeueLTStd-Lt_0.otf
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/SH_MarComm_Repo/Move Day Signage/Document fonts/HelveticaNeueLTStd-Lt_0.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:28980
-FileModTime:568234492
+FileModTime:565033643
 DesignSize:120
 NameArray:0,Mac,18,HelveticaNeueLT Std Lt
 NameArray:0,Mac,4,Helvetica Neue LT Std 45 Light
@@ -65,12 +65,12 @@ WidthClass:5
 AngleClass:0
 FullName:Arial
 WritingScript:Roman
-OutlineFileName:/Users/grosse/GitHub OfficeMac/SH_MarComm_Repo/Move Day Signage/Document fonts/arial.ttf
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/SH_MarComm_Repo/Move Day Signage/Document fonts/arial.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:774236
-FileModTime:568234492
+FileModTime:565033643
 NameArray:0,Mac,4,Arial
 NameArray:0,Win,1,Arial
 %EndFont
@@ -88,14 +88,14 @@ WidthClass:5
 AngleClass:0
 FullName:Helvetica Neue LT Std 75 Bold
 WritingScript:Roman
-OutlineFileName:/Users/grosse/GitHub OfficeMac/SH_MarComm_Repo/Move Day Signage/Document fonts/HelveticaNeueLTStd-Bd_0.otf
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/SH_MarComm_Repo/Move Day Signage/Document fonts/HelveticaNeueLTStd-Bd_0.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:28240
-FileModTime:568234492
+FileModTime:565033643
 NameArray:0,Mac,18,HelveticaNeueLT Std Bold
 NameArray:0,Mac,4,Helvetica Neue LT Std 75 Bold
 NameArray:0,Win,1,HelveticaNeueLT Std
