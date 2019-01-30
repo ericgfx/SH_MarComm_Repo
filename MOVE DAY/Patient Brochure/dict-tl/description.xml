@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+            <version value="2005.01.08" />
+    <identifier value="org.openoffice.tl.dictionaries.tl" />
+    <display-name>
+        <name lang="en">Tagalog Spellchecker Dictionary</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+    <registration>
+        <simple-license  accept-by="admin" default-license-id="tl-PH" suppress-on-update="false" >
+            <license-text xlink:href="README_tl_PH.txt" lang="tl-PH" license-id="tl-PH" />
+        </simple-license>
+    </registration>
+</description>
+
