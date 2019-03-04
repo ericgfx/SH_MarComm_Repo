@@ -1,0 +1,135 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTWalsheimBold
+FamilyName:GT Walsheim
+StyleName:Bold
+MenuName:GT Walsheim Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:GT Walsheim Bold
+WritingScript:Roman
+OutlineFileName:/Users/aslan/CLIENTS/SUTTER HEALTH/PREPARED FOR PRESS/19-CPMC-TRANS-0013068_GEN-ED Move_22x28_Lobby Sign_Final/Document fonts/GTWalsheimBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:272708
+FileModTime:500525852
+NameArray:0,Mac,4,GT Walsheim Bold
+NameArray:0,Win,1,GT Walsheim Bold
+NameArray:0,Win,16,GT Walsheim
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Bd
+FamilyName:Helvetica Neue LT Std
+StyleName:75 Bold
+MenuName:HelveticaNeueLT Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 75 Bold
+WritingScript:Roman
+OutlineFileName:/Users/aslan/CLIENTS/SUTTER HEALTH/PREPARED FOR PRESS/19-CPMC-TRANS-0013068_GEN-ED Move_22x28_Lobby Sign_Final/Document fonts/HelveticaNeueLTStd-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28240
+FileModTime:74477864
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold
+NameArray:0,Mac,4,Helvetica Neue LT Std 75 Bold
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Lt
+FamilyName:Helvetica Neue LT Std
+StyleName:45 Light
+MenuName:HelveticaNeueLT Std Lt
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 45 Light
+WritingScript:Roman
+OutlineFileName:/Users/aslan/CLIENTS/SUTTER HEALTH/PREPARED FOR PRESS/19-CPMC-TRANS-0013068_GEN-ED Move_22x28_Lobby Sign_Final/Document fonts/HelveticaNeueLTStd-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28120
+FileModTime:74477864
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt
+NameArray:0,Mac,4,Helvetica Neue LT Std 45 Light
+NameArray:0,Win,1,HelveticaNeueLT Std Lt
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtIt
+FamilyName:Helvetica Neue LT Std
+StyleName:46 Light Italic
+MenuName:HelveticaNeueLT Std Lt
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue LT Std 46 Light Italic
+WritingScript:Roman
+OutlineFileName:/Users/aslan/CLIENTS/SUTTER HEALTH/PREPARED FOR PRESS/19-CPMC-TRANS-0013068_GEN-ED Move_22x28_Lobby Sign_Final/Document fonts/HelveticaNeueLTStd-LtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28628
+FileModTime:74477864
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt Ital
+NameArray:0,Mac,4,Helvetica Neue LT Std 46 Light Italic
+NameArray:0,Win,1,HelveticaNeueLT Std Lt
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Roman
+FamilyName:Helvetica Neue LT Std
+StyleName:55 Roman
+MenuName:HelveticaNeueLT Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 55 Roman
+WritingScript:Roman
+OutlineFileName:/Users/aslan/CLIENTS/SUTTER HEALTH/PREPARED FOR PRESS/19-CPMC-TRANS-0013068_GEN-ED Move_22x28_Lobby Sign_Final/Document fonts/HelveticaNeueLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:27476
+FileModTime:77124372
+NameArray:0,Mac,18,HelveticaNeueLT Std
+NameArray:0,Mac,4,Helvetica Neue LT Std 55 Roman
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
